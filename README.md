@@ -1,6 +1,8 @@
 # LITA_HR_Dataset
 Documentation of my LITA HR dataset from Nigerian states over the years to draw insights about attrition trends.
 
+
+
 ### Project Overview
 ---
 
@@ -68,4 +70,10 @@ The Power BI dashboard brought these insights to life with interactive elements:
 - Population Growth Trends: Visualized using line graphs to show changes over time.
 - Regional Differences: Illustrated through maps and bar charts to highlight how different states compare.
 - Detailed Insights: Provided drill-down capabilities to explore specific states and their population changes in detail.
+
+![HR Data Visualization](https://github.com/user-attachments/assets/8fdbe1c7-32f0-4f68-a9d5-f54c5e7cc0ca)
+
+![HR Data Visualization1](https://github.com/user-attachments/assets/723ec379-5435-4d7e-bee8-22116b679631)
+
+
 
